@@ -1,0 +1,480 @@
+body{
+}
+
+.header_text{
+	width: 373px;
+	height: 13px;
+	color: #4c4c4d;
+	font-family: Circe; 
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 38.28px;
+	letter-spacing: 1.4px;
+	display: inline-block;
+	margin-left: 34px;
+}
+
+button:hover {
+	background-color: #c3fdff;
+}
+
+.logo{
+	width: 64px;
+	height: 71px;
+}
+
+header{
+	margin-top: 44px;
+}
+
+hr{
+	border: 0px;
+	width: 100%;
+	height: 1px;
+	background-color: #d8d9d9;
+	margin-top: 52px;
+	margin-bottom: 0px;
+}
+
+.hr_bold_short{
+	width: 77px;
+	height: 2px;
+	border: 5px solid #2a2a2a;
+	align-items: left;
+	margin-left: 0px;
+	margin-top: 26px;
+	margin-bottom: 26px;
+}
+
+.it_really_conveniently{
+	margin-left: ;
+}
+
+.text_h{
+	position: relative;
+	text-align: left;
+	/* Style for "Это действ" */
+	width: 405px;
+	height: 116px;
+	color: #010101;
+	font-family: "Intro-Black";
+	font-size: 36px;
+	font-weight: 400;
+	text-transform: uppercase;
+	/* Text style for "Э, то , де" */
+	letter-spacing: 7.2px;
+	margin-top: 141px;
+	margin-bottom: 0px;
+}
+
+.text{
+	position: relative;
+	margin-top: 26px;
+	width: 384px;
+	height: 77px;
+	color: #4c4c4d;
+	font-family: Circe;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 30.04px;
+
+}
+
+.button{
+	margin-top: 28px;
+	width: 184px;
+	height: 51px;
+	box-shadow: 6px 21px 27px rgba(0, 0, 0, 0.15);
+	background-color: #eedeff;
+	border-radius: 25px;
+	border: 0px;
+}
+
+.button_text{
+	text-align: center;
+	color: #4c4c4d;
+	font-family: Circe;
+	font-size: 14px;
+	font-weight: 400;
+	letter-spacing: 1.4px;
+
+}
+
+.advantage{
+	margin-top: 121px;
+}
+
+.main_img{
+	margin-left: -5%;
+}
+
+.h2{
+	margin-top: 119px;
+	width: 376px;
+	height: 129px;
+	color: #010101;
+	font-family: "Intro-Black";
+	font-size: 30px;
+	font-weight: 400;
+	text-transform: uppercase;
+	/* Text style for "Н, ачни чи" */
+	letter-spacing: 6px;
+}
+
+.soc_icon{
+	text-transform: uppercase;
+	margin-left: -25px;
+	padding: 0px;
+	margin-top: 30px;
+}
+
+.text_1st_block{
+	/* Style for "Выбери при" */
+	width: 394px;
+	height: 45px;
+	color: #4c4c4d;
+	font-family: Circe;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 30px;
+}
+
+.text_below{
+	/* Style for "*6am (six" */
+	width: 334px;
+	height: 23px;
+	color: #000000;
+	font-family: Intro-Regular;
+	font-size: 10px;
+	font-weight: 300;
+	letter-spacing: 1px;
+	margin-top: 32px;
+	margin-left: 2px;
+}
+
+.circle{
+	margin-left: 152px;
+	position: absolute;
+	width: 303px;
+	height: 303px;
+}
+
+.line{
+	/* Style for "line" */
+	margin-left: 2px;
+	margin-top: 25px;
+	width: 78px;
+	height: 3px;
+	border: 5px solid #2a2a2a;
+}
+
+.img_2b:hover{
+	opacity: 0;
+}
+
+#img2b_hover{
+	position: sticky;
+	margin-top: 121px;
+	width: 561px;
+	opacity: 0%;
+}
+#img2b{
+	margin-top: -374px;
+	width: 561px;
+}
+#block_2sd{
+	position: relative;
+}
+
+.hr_2b{
+	/* Style for "line" */
+	width: 100%;
+	height: 1px;
+	background-color: #d8d9d9;
+	margin: 0px;
+}
+
+
+/* 3 block */
+#block_3d{
+	/* Style for "bg" */
+	background-color: #fafafa;
+	margin-top: 121px;
+	width: 100%;
+}
+
+.h1_3b{
+	/* Style for "Какого рез" */
+	color: #000000;
+	font-family: "Intro-Black";
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 46px;
+	text-transform: uppercase;
+	/* Text style for "К, акого р" */
+	letter-spacing: 7.2px;
+	/*margin*/
+	padding-top: 120px;
+}
+
+.p_3b{
+	/* Style for "через год" */
+	color: #4c4c4d;
+	font-family: Circe;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 30px;
+	text-transform: uppercase;
+	/* Text style for "ч, ерез го" */
+	letter-spacing: 1.4px;
+	/*margin*/
+	margin-top: 23px;
+}
+
+#icon_3b_div{
+	text-align: center;
+}
+.icon_3b{
+	/*margin*/
+	margin-top: 111px;
+	text-align: center;
+}
+
+.icon_p_3b{
+	text-align: center;
+	/* Style for "Станешь св" */
+	color: #4c4c4d;
+	font-family: Circe;
+	font-size: 14px;
+	font-weight: 400;
+	text-transform: uppercase;
+	/* Text style for "С, танешь" */
+	letter-spacing: 1.4px;
+}
+
+.button_3b{
+	/* Style for "Button" */
+	width: 183px;
+	height: 51px;
+	box-shadow: 6px 21px 27px rgba(0, 0, 0, 0.15);
+	background-color: #eedeff;
+	border-radius: 25px;
+	margin-bottom: 120px;
+	border: 0px;
+
+}
+
+.button_3b_text{
+	/* Style for "Начать рас" */
+	color: #4c4c4d;
+	font-family: Circe;
+	font-size: 14px;
+	font-weight: 400;
+	text-transform: uppercase;
+	/*Text style for "Н, ачать р" */
+	letter-spacing: 1.4px;
+}
+
+.button_3b_div{
+	text-align: center;
+	margin-top: 105px;
+}
+
+/* 4 block */
+.div_4b{
+	position: relative;
+}
+
+.h_4b{
+	/* Style for "присоединя" */
+	margin-top: 112px;
+	width: 422px;
+	height: 79px;
+	color: #010101;
+	font-family: "Intro-Black";
+	font-size: 36px;
+	font-weight: 400;
+	text-transform: uppercase;
+	/* Text style for "п, рисоеди" */
+	letter-spacing: 7.2px;
+}
+
+.hr_4b{
+	/* Style for "Прямоуголь" */
+	width: 77px;
+	height: 2px;
+	background-color: #2a2a2a;
+	margin-top: 23px;
+	margin-left: 0px;
+}
+
+.p_4b_bold{
+	color: #4c4c4d;
+	font-size: 16px;
+	line-height: 30px;
+	/* Text style for "Т, ы больш" */
+	font-family: "Circe-Bold";
+	font-weight: 700;
+	margin-top: 26px;
+	margin-bottom: -12px;
+}
+
+.p_4b_regular{
+	/* Style for "Ты больше" */
+	color: #4c4c4d;
+	font-family: Circe;
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 30px;
+	/* Text style for "Т, ы больш" */
+	font-family: "Circe Bold";
+	font-weight: 700;
+	/* Text style for "Каждый ден" */
+	font-family: "Circe-Regular";
+	font-weight: 400;
+	margin-top: ;
+}
+
+.button_4b{
+	/* Style for "Button" */
+	width: 258px;
+	height: 50px;
+	box-shadow: 6px 21px 27px rgba(0, 0, 0, 0.15);
+	background-color: #eedeff;
+	border-radius: 25px;
+	border: 0px;
+	margin-bottom: 121px;
+}
+
+.button_4b_text{
+	/* Style for "выбрать пр" */
+	color: #4c4c4d;
+	font-family: Circe;
+	font-size: 14px;
+	font-weight: 400;
+	text-transform: uppercase;
+	/* Text style for "в, ыбрать" */
+	letter-spacing: 1.4px;
+}
+
+.circle_4b{
+	margin-top: 64px;
+	margin-left: 152px;
+	position: absolute;
+	width: 303px;
+	height: 303px;
+}
+
+.p_4b{
+	color: #4c4c4d;
+	font-family: Circe;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 26px;
+	text-transform: uppercase;
+	/* Text style for "В, ыбери п" */
+	letter-spacing: 1.57px;
+	margin-top: 16px;
+}
+
+.div_4b_right{
+	margin-top: 121px;
+}
+
+.h2_4b{
+	/* Style for "1" */
+	width: 15px;
+	height: 25px;
+	color: #010101;
+	font-family: "Intro-Black";
+	font-size: 36px;
+	font-weight: 400;
+	line-height: 62.26px;
+	text-transform: uppercase;
+	margin-bottom: 0px;
+}
+
+.br_4b{
+	margin: 0;
+}
+
+/*footer*/
+
+.hr_footer{
+	/* Style for "Background" */
+	width: 100%;
+	height: 1px;
+	background-color: #000000;
+}
+
+.logo_footer{
+	display: block;
+	margin: auto;
+	text-align: center;
+	margin-top: 44px;
+}
+
+.text_footer{
+	/* Style for "@6am_bible" */
+	margin-top: 33px;
+	text-align: center;
+	color: #4c4c4d;
+	font-family: Circe;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 30px;
+	text-transform: uppercase;
+	/* Text style for "@, 6am_bib" */
+	letter-spacing: 1.57px;
+}
+
+.img_footer{
+	text-align: center;
+	margin-top: 23px;
+	padding-left: -14px;
+	margin-bottom: 43px;
+} 
+
+.media_1b{
+	margin-top: 25px;
+}
+@media(max-width: 1200px){
+	.main_img{
+		display: none;
+	}
+
+	.logo{
+		
+	}
+
+	.header_text{
+		
+	}
+
+	.h2{
+		text-align: left;
+	}
+	.media_1b{
+	}
+	.col_sm{
+		margin-top: 0px;
+	}
+}
+
+@media(max-width: 990px){
+	.logo{
+		
+	}
+	.header_text{
+		display: none;
+	}
+}
+
+@media(max-width: 720px){
+	.logo{
+		margin:0 auto;
+	}
+	.header_text{
+		display: none;
+	}
+}
